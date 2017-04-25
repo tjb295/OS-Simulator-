@@ -1,0 +1,1 @@
+"Second installment of a OS simulator for OS class. To run you must have a config.cnf and metadata file. You can execute the sim with config.cnf as the only cmd line parameter. Needs a lot of touching up right now" 
